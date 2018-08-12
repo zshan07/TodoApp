@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366282189704",
+    "firebase_url": "https://practisequizapp-2109d.firebaseio.com",
+    "project_id": "practisequizapp-2109d",
+    "storage_bucket": "practisequizapp-2109d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366282189704:android:32f6f7111cd6da8b",
+        "android_client_info": {
+          "package_name": "com.zshan.koqzs.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366282189704-4brii30qludq95n77hrks577g7lr8fjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zshan.koqzs.todoapp",
+            "certificate_hash": "29c2f05de55d3602bd48e68f42e68dbd55edb08e"
+          }
+        },
+        {
+          "client_id": "366282189704-2r9e2cobg44ck4uhsbhdp7vv0fu5gu1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0rMcsZR0EhefQC2XvknyEkJuC2nvfeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366282189704-2r9e2cobg44ck4uhsbhdp7vv0fu5gu1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
